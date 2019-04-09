@@ -1,2 +1,2 @@
 # react-exercise
-react-exercise
+Excercise from Codecademy

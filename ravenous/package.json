@@ -2,7 +2,7 @@
   "name": "ravenous",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/michaelzheng1/react-exercise/tree/master/ravenous",
+  "homepage": "https://michaelzheng1.github.io/react-exercise",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

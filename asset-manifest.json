@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/michaelzheng1/react-exercise/tree/master/ravenous/static/css/main.c08f20da.chunk.css",
-    "main.js": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/main.9eb6e074.chunk.js",
-    "main.js.map": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/main.9eb6e074.chunk.js.map",
-    "runtime~main.js": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/runtime~main.1d0d4dbb.js",
-    "runtime~main.js.map": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/runtime~main.1d0d4dbb.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/michaelzheng1/react-exercise/tree/master/ravenous/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/michaelzheng1/react-exercise/tree/master/ravenous/index.html",
-    "precache-manifest.0682cc644a5d326f83be83be380fcf34.js": "/michaelzheng1/react-exercise/tree/master/ravenous/precache-manifest.0682cc644a5d326f83be83be380fcf34.js",
-    "service-worker.js": "/michaelzheng1/react-exercise/tree/master/ravenous/service-worker.js",
-    "static/css/main.c08f20da.chunk.css.map": "/michaelzheng1/react-exercise/tree/master/ravenous/static/css/main.c08f20da.chunk.css.map",
-    "static/media/SearchBar.css": "/michaelzheng1/react-exercise/tree/master/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/react-exercise/static/css/main.8fe3e729.chunk.css",
+    "main.js": "/react-exercise/static/js/main.b347f4c0.chunk.js",
+    "main.js.map": "/react-exercise/static/js/main.b347f4c0.chunk.js.map",
+    "runtime~main.js": "/react-exercise/static/js/runtime~main.9a06d9ab.js",
+    "runtime~main.js.map": "/react-exercise/static/js/runtime~main.9a06d9ab.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-exercise/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-exercise/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-exercise/index.html",
+    "precache-manifest.9eef90f2e584ffba3560b2a9bdec0422.js": "/react-exercise/precache-manifest.9eef90f2e584ffba3560b2a9bdec0422.js",
+    "service-worker.js": "/react-exercise/service-worker.js",
+    "static/css/main.8fe3e729.chunk.css.map": "/react-exercise/static/css/main.8fe3e729.chunk.css.map",
+    "static/media/SearchBar.css": "/react-exercise/static/media/background_search_mobile.5d0905e6.jpg"
   }
 }
